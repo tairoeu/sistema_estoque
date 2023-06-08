@@ -1,5 +1,0 @@
-<?php 
-// Config to DataBase
-
-
-
